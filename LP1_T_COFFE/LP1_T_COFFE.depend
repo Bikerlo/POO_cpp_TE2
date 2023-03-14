@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1678244760 source:c:\users\torre\desktop\uceva\lp1\c++\lp1_t_coffe\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"coffeMaker.h"
+
+1678243377 c:\users\torre\desktop\uceva\lp1\c++\lp1_t_coffe\include\coffemaker.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1678243233 source:c:\users\torre\desktop\uceva\lp1\c++\lp1_t_coffe\src\coffemaker.cpp
+
